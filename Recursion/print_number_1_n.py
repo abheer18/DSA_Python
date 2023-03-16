@@ -1,5 +1,5 @@
 def recursive_method(n):
-    if n == 1:
+    if n < 1:
         return
     print(n)
     n = n-1

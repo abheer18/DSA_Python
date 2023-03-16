@@ -14,3 +14,13 @@ def printSubsequence(arr, indx, mylist):
 arr = [1, 2, 3]
 mylist    = []
 printSubsequence(arr, 0, mylist)
+
+#arr - [1,2,3]
+# SUBSEQUENCE - Every combination (not in continous order)
+# [1, 2, 3]
+# [1, 2]
+# [1, 3]
+# [1]
+# [2, 3]
+# [2]
+# [3]
